@@ -1,12 +1,14 @@
 {
     "name": "wh187/composertt",
-    "description": "this is a",
+    "description": "asdfasdf",
     "type": "project",
+    "license": "MIT",
     "authors": [
         {
             "name": "wh187",
             "email": "269220473@qq.com"
         }
     ],
+    "minimum-stability": "dev",
     "require": {}
 }
