@@ -1,8 +1,8 @@
 {
     "name": "administrator/composertt",
-    "description": "this is descripton",
+    "description": "desc",
     "type": "project",
-    "license": "1.0",
+    "license": "1.2",
     "authors": [
         {
             "name": "wh187",
