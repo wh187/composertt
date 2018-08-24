@@ -1,0 +1,13 @@
+{
+    "name": "administrator/composertt",
+    "description": "this is descripton",
+    "type": "project",
+    "license": "1.0",
+    "authors": [
+        {
+            "name": "wh187",
+            "email": "269220473@qq.com"
+        }
+    ],
+    "require": {}
+}
